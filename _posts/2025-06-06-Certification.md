@@ -1,9 +1,9 @@
 ---
 title: "Basic bash"
 category: [Certifications]
-date: 2024-10-29 12:00:00 +0530
-author: "Muhammed Sahl T V M"
-excerpt: "Basic Bash"
+date: 2025-06-06 12:00:00 
+author: "Dipu kumar"
+excerpt: "Cyber Threat Management"
 ---
  **Exciting News!** 
 
