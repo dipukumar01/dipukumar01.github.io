@@ -5,7 +5,7 @@ category: [Projects]
 author: "Dipu kumar"
 excerpt: "A brief description of your post."
 ---
-# Flask OTP Verification Web Application
+# Sweet Shop
 
 ## Project Description
 
