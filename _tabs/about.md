@@ -118,6 +118,18 @@ I am excited about the opportunity to contribute to a safer digital environment 
     background-color: #4cad00;
   }
 
+  #name{
+    color:black;
+  }
+
+  #email{
+    color:black;
+  }
+
+  #message{
+    color:black;
+  }
+
   @media (prefers-color-scheme: dark) {
     body {
       background-color: var(--chirpy-bg-dark);
