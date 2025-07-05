@@ -39,3 +39,8 @@ Styled with borders and padding for visual prominence.
 - **Multi-Factor Authentication (MFA):** Add options for users to set up MFA for added security.
 - **Admin Panel:** Develop an admin interface to manage users and view OTP logs.
 - **Mobile-Friendly Design:** Optimize the front end for mobile users.
+
+## Screenshots
+
+### Sweet Shop
+![Sweet shop](/assets/screenshots/sweet-shop.jpeg)
