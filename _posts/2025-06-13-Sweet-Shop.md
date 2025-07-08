@@ -30,16 +30,6 @@ Styled with borders and padding for visual prominence.
 - **Frontend:** HTML, CSS
 - **Email Service:** In future update, I plan to integrate order received on the gmail.
 
-
-
-## Future Improvements
-
-- **Enhanced Security Features:** Implement additional security measures such as CAPTCHA and rate limiting to prevent abuse.
-- **Password Recovery:** Introduce a password recovery feature that uses OTP verification.
-- **Multi-Factor Authentication (MFA):** Add options for users to set up MFA for added security.
-- **Admin Panel:** Develop an admin interface to manage users and view OTP logs.
-- **Mobile-Friendly Design:** Optimize the front end for mobile users.
-
 ## Screenshots
 
 ### Sweet Shop
