@@ -1,6 +1,6 @@
 ---
 title: "Style Wear"
-date: 2024-09-08 12:00:00 +0530
+date: 2025-07-08 12:00:00 +0530
 category: [Projects]
 author: "Dipu kumar"
 excerpt: "A brief description of your post."
@@ -48,7 +48,7 @@ Emphasized elegance and brand appeal through color palette, imagery, and typogra
 ### 🔧 Technical Improvements:
 
 - **Backend Integration:**
-Add a database (MySQL, MongoDB) for storing user data, products, and orders. 
+Add a database (MySQL, MongoDB) for storing user data, products, and orders. <br>
 Use a backend framework (Node.js, Django, Laravel) to manage authentication, CRUD operations, etc.
 
 -  **Authentication System:** Secure login/signup with hashing (e.g., bcrypt) and Add password reset via email and user session management.
