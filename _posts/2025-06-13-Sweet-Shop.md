@@ -27,7 +27,7 @@ Styled with borders and padding for visual prominence.
 
 
 ## Technologies Used
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript
+- **Frontend:** HTML, CSS
 - **Email Service:** In future update, I plan to integrate order received on the gmail.
 
 
