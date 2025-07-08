@@ -48,72 +48,55 @@ Emphasized elegance and brand appeal through color palette, imagery, and typogra
 ### 🔧 Technical Improvements:
 
 - **Backend Integration:**
-- Add a database (MySQL, MongoDB) for storing user data, products, and orders.
-- Use a backend framework (Node.js, Django, Laravel) to manage authentication, CRUD operations, etc.
+Add a database (MySQL, MongoDB) for storing user data, products, and orders. 
+Use a backend framework (Node.js, Django, Laravel) to manage authentication, CRUD operations, etc.
 
--  **Authentication System:**
-- Secure login/signup with hashing (e.g., bcrypt).
-- Add password reset via email and user session management.
+-  **Authentication System:** Secure login/signup with hashing (e.g., bcrypt) and Add password reset via email and user session management.
 
-- **Admin Panel:**
-- Build a dashboard for admins to manage products, users, orders, and inventory.
+- **Admin Panel:** Build a dashboard for admins to manage products, users, orders, and inventory.
 
-- **Responsive Design:**
-- Make the entire layout fully mobile/tablet responsive using media queries or frameworks like Bootstrap or Tailwind CSS.
+- **Responsive Design:** Make the entire layout fully mobile/tablet responsive using media queries or frameworks like Bootstrap or Tailwind CSS.
 
-- **Payment Integration:**
-- Integrate payment gateways like Razorpay, Stripe, or PayPal for real transactions.
+- **Payment Integration:** Integrate payment gateways like Razorpay, Stripe, or PayPal for real transactions.
 
-- **Search & Filter System:**
-- Add dynamic filtering by price, brand, category, and size.
-- Implement auto-suggestions in the search bar.
+- **Search & Filter System:** Add dynamic filtering by price, brand, category, and size and Implement auto-suggestions in the search bar.
 
 - ### 💡 User Experience (UX) Enhancements:
 
-- **Wishlist & Cart:**
-- Add a feature to add items to cart and wishlist with local storage or backend logic.
+- **Wishlist & Cart:** Add a feature to add items to cart and wishlist with local storage or backend logic.
 
-- **Order Tracking:**
-- Allow users to see order history, current status, and shipping updates.
+- **Order Tracking:** Allow users to see order history, current status, and shipping updates.
 
-- **Ratings & Reviews:**
-- Add a review section for products with star ratings and comments.
+- **Ratings & Reviews:** Add a review section for products with star ratings and comments.
 
-- **Email Notifications**:
-- Send confirmation emails for sign-ups, orders, and offers.
+- **Email Notifications**: Send confirmation emails for sign-ups, orders, and offers.
 
-- **Dark Mode / Theme Switcher:**
-- Let users switch between light and dark mode for better personalization.
+- **Dark Mode / Theme Switcher:** Let users switch between light and dark mode for better personalization.
 
 - ### 📈 Business & SEO Improvements:
 
-- **SEO Optimization:**
-- Use proper meta tags, alt attributes, and structured data to rank better in search engines.
+- **SEO Optimization:** Use proper meta tags, alt attributes, and structured data to rank better in search engines.
 
-- **Social Media Integration:**
-- Add buttons for sharing products directly to platforms like Instagram, WhatsApp, Facebook.
+- **Social Media Integration:** Add buttons for sharing products directly to platforms like Instagram, WhatsApp, Facebook.
 
-- **Analytics Dashboard:**
-- Track user behavior with Google Analytics or a custom dashboard.
+- **Analytics Dashboard:** Track user behavior with Google Analytics or a custom dashboard.
 
-- **Blog Section:**
-- Add fashion-related blog content to attract organic traffic and build brand authority.
+- **Blog Section:** Add fashion-related blog content to attract organic traffic and build brand authority.
 
-- **Multilingual Support:**
-- Enable the site in multiple languages for a global audience.
+- **Multilingual Support:** Enable the site in multiple languages for a global audience.
 
 ## Screenshots
 
-### Login Page
+### Home Page
 ![Home Page](/assets/screenshots/style-wear-home.jpeg)
 
-### Registration Page
+### Product Page
 ![Product Page](/assets/screenshots/style-wear-product.jpeg)
 
-### OTP Verification
+### Contact Page
 ![Contact Page](/assets/screenshots/style-wear-contact.jpeg)
 
-### Dashboard
+### Login Page
 ![Login Page](/assets/screenshots/style-wear-login.jpeg)
 
 
